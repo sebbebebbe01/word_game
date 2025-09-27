@@ -66814,7 +66814,6 @@ uzbeken
 uzbeker
 uzbekisk
 uzbekiskt
-v
 vaccin
 vaccination
 vaccinationen
